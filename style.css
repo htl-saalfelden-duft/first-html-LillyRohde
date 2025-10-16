@@ -5,6 +5,7 @@ h1{
     text-align: center;
     text-transform: uppercase;
     color: #4CAF50;
+    margin: 1rem;
 
 }
 
@@ -21,4 +22,10 @@ h1{
 
 #motto {
     font-style: oblique;
+}
+
+#footer {
+    margin: 1rem;
+    background-color: aquamarine;
+    padding-left: 1100px;
 }
