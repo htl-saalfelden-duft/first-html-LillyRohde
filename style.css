@@ -1,0 +1,24 @@
+h1{
+
+    border: 3px solid rgb(89, 148, 98);
+
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+
+}
+
+#BildundText {
+    color: #4CAF50;
+    font-style: italic;
+    padding: 10p;
+
+}
+
+#picture {
+    padding-top: 30px;
+}
+
+#motto {
+    font-style: oblique;
+}
